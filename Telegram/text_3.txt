@@ -1,0 +1,823 @@
+Daniel (Matcom), [02/11/2021 22:29]
+Perfe
+
+Alejandro Escobar, [22/11/2021 15:04]
+Papa tú andas duro en funcional?
+
+Daniel (Matcom), [22/11/2021 15:04]
+No
+
+Daniel (Matcom), [22/11/2021 15:05]
+Pero quizás pueda ayudarte
+
+Alejandro Escobar, [22/11/2021 15:06]
+Ok
+
+Alejandro Escobar, [22/11/2021 15:06]
+Te voy a enseñar
+
+Alejandro Escobar, [22/11/2021 15:07]
+Y ya lo probé, funciona sin problema
+
+Daniel (Matcom), [22/11/2021 15:16]
+Dejame pensar eso un poco
+
+Daniel (Matcom), [22/11/2021 15:16]
+Y acordarme de F#
+
+Alejandro Escobar, [22/11/2021 15:16]
+[Respondiendo a Daniel (Matcom)]
+Dale ok😁
+
+Alejandro Escobar, [22/11/2021 15:16]
+[Respondiendo a Daniel (Matcom)]
+No jodas que tú estudiaste eso
+
+Daniel (Matcom), [22/11/2021 15:16]
+Si
+
+Alejandro Escobar, [22/11/2021 15:16]
+Con lo malo que está😂, viva haskell, viva quicksort en una línea
+
+Daniel (Matcom), [22/11/2021 15:16]
+Malo ?
+
+Daniel (Matcom), [22/11/2021 15:17]
+Es 10 veces haskell
+
+Alejandro Escobar, [22/11/2021 15:17]
+[Respondiendo a Daniel (Matcom)]
+Me gusta más el pattern matching de haskell
+
+Daniel (Matcom), [22/11/2021 15:17]
+[Respondiendo a Alejandro Escobar]
+F# tambien lo hace en una linea
+
+Alejandro Escobar, [22/11/2021 15:17]
+En específico
+
+Alejandro Escobar, [22/11/2021 15:17]
+[Respondiendo a Daniel (Matcom)]
+Bueno en fin
+
+Alejandro Escobar, [22/11/2021 15:17]
+No sé por qué F# no funciona😢
+
+Daniel (Matcom), [22/11/2021 15:31]
+Ahora vamos a ver lo tuyo
+
+Alejandro Escobar, [22/11/2021 15:33]
+[Respondiendo a Daniel (Matcom)]
+Yo intenté no usar el |< para que fuera más legible, aunque tuviera más código
+
+Alejandro Escobar, [22/11/2021 15:40]
+[Respondiendo a Alejandro Escobar]
+Y además para aprender primero un poco de la sintaxis
+
+Daniel (Matcom), [22/11/2021 15:45]
+A ver una cosa
+
+Daniel (Matcom), [22/11/2021 15:45]
+A ver tu declaracion de la lista
+
+Alejandro Escobar, [22/11/2021 15:45]
+[Respondiendo a Daniel (Matcom)]
+Dices en el main?
+
+Daniel (Matcom), [22/11/2021 15:45]
+Si
+
+Daniel (Matcom), [22/11/2021 15:46]
+Ah pues es eso
+
+Daniel (Matcom), [22/11/2021 15:46]
+Las listas en F# no se separan con ,
+
+Alejandro Escobar, [22/11/2021 15:47]
+[Respondiendo a Daniel (Matcom)]
+Se separan con ;?
+
+Daniel (Matcom), [22/11/2021 15:47]
+O sea, sus elementos
+
+Daniel (Matcom), [22/11/2021 15:47]
+Si con ;
+
+Alejandro Escobar, [22/11/2021 15:47]
+Entonces por qué me permite hacer 1,2,3
+
+Alejandro Escobar, [22/11/2021 15:47]
+O sea, no da berro ni palo ni nads
+
+Daniel (Matcom), [22/11/2021 15:47]
+Es una tupla
+
+Daniel (Matcom), [22/11/2021 15:48]
+No una lista
+
+Daniel (Matcom), [22/11/2021 15:48]
+O sea, es el mismo elemento
+
+Daniel (Matcom), [22/11/2021 15:48]
+[1, 2, 3, 4] es una lista
+
+Daniel (Matcom), [22/11/2021 15:48]
+Con un solo elemento
+
+Daniel (Matcom), [22/11/2021 15:49]
+Que es la tupla (1,2,3,4)
+
+Alejandro Escobar, [22/11/2021 15:49]
+Y por qué me permite hacerle quicksort entonces?
+
+Alejandro Escobar, [22/11/2021 15:49]
+O sea
+
+Daniel (Matcom), [22/11/2021 15:49]
+Porque sigue siendo una lista
+
+Alejandro Escobar, [22/11/2021 15:49]
+[Respondiendo a Daniel (Matcom)]
+Ah ya
+
+Alejandro Escobar, [22/11/2021 15:49]
+Pal carajo
+
+Daniel (Matcom), [22/11/2021 15:49]
+Entonces bueno era eso
+
+Alejandro Escobar, [22/11/2021 15:50]
+Te iba a preguntar otra cosa
+
+Daniel (Matcom), [22/11/2021 15:50]
+Mi codigo pa que se parezca mas al tuyo
+
+Alejandro Escobar, [22/11/2021 15:50]
+Hay alguna manera de hacer en F# lo de haskell de que yo declare antes de la función de qué tipos son los parámetros de entrafa y salida?
+
+Daniel (Matcom), [22/11/2021 15:51]
+[Respondiendo a Alejandro Escobar]
+Rico
+
+Daniel (Matcom), [22/11/2021 15:51]
+Q recuerdos
+
+Alejandro Escobar, [22/11/2021 15:51]
+[Respondiendo a Daniel (Matcom)]
+Ta bueno
+
+Alejandro Escobar, [22/11/2021 15:51]
+[Respondiendo a Daniel (Matcom)]
+Y lo de el capítulo especial que es 1 segundo de cada uno de los primeros 1000 capítulos
+
+Alejandro Escobar, [22/11/2021 15:54]
+[Respondiendo a Alejandro Escobar]
+Marco esto por si se pierde en el chat😂
+
+Daniel (Matcom), [22/11/2021 15:54]
+[Respondiendo a Alejandro Escobar]
+No estoy seguro
+
+Daniel (Matcom), [22/11/2021 15:54]
+Pero creo que si
+
+Daniel (Matcom), [22/11/2021 15:56]
+Lo que no me queda claro es como poner list
+
+Alejandro Escobar, [22/11/2021 15:59]
+[Respondiendo a Daniel (Matcom)]
+Ño thanks, estaba buscando cómo hacer algo como eso hace rato jaja
+
+Alejandro Escobar, [22/11/2021 15:59]
+Thanks por todo ahí😁
+
+Alejandro Escobar, [23/11/2021 17:56]
+Entendiste al final lo que planteé?
+
+Daniel (Matcom), [23/11/2021 17:56]
+Si
+
+Alejandro Escobar, [23/11/2021 17:57]
+Alguna idea😂?, en Python específicamente jaja
+
+Daniel (Matcom), [23/11/2021 17:57]
+Hay un metodo del
+
+Alejandro Escobar, [23/11/2021 17:57]
+[Respondiendo a Daniel (Matcom)]
+Un destructor?
+
+Daniel (Matcom), [23/11/2021 17:57]
+si
+
+Alejandro Escobar, [23/11/2021 17:58]
+Y elimina todo lo que hay adentro de la clase?, dejándolo en null?
+
+Daniel (Matcom), [23/11/2021 17:58]
+Veamos
+
+Daniel (Matcom), [23/11/2021 18:00]
+No
+
+Daniel (Matcom), [23/11/2021 18:01]
+Y eso no creo que exista manera de hacerlo
+
+Daniel (Matcom), [23/11/2021 18:01]
+Porque tu lo que quieres es escribir en memoria None
+
+Alejandro Escobar, [23/11/2021 18:02]
+[Respondiendo a Daniel (Matcom)]
+Creo🤣
+
+Daniel (Matcom), [23/11/2021 18:02]
+A donde apunta un puntero
+
+Alejandro Escobar, [23/11/2021 18:02]
+[Respondiendo a Daniel (Matcom)]
+Una referencia apunta a la memoria no?
+
+Alejandro Escobar, [23/11/2021 18:05]
+Es que es muy poco óptimo si lo dejo como está
+
+Daniel (Matcom), [23/11/2021 18:05]
+Que tienes hecho ?
+
+Alejandro Escobar, [23/11/2021 18:06]
+En comparación a si pudiera saber dinámicamente qué ya está borrado
+
+Daniel (Matcom), [23/11/2021 18:06]
+Y no lo puedes saber ?
+
+Alejandro Escobar, [23/11/2021 18:06]
+[Respondiendo a Daniel (Matcom)]
+Cómo?
+
+Daniel (Matcom), [23/11/2021 18:06]
+Tu quieres saber si ya esta borrada una instancia
+
+Daniel (Matcom), [23/11/2021 18:06]
+Eso esta duro
+
+Daniel (Matcom), [23/11/2021 18:06]
+Es verdad
+
+Alejandro Escobar, [23/11/2021 18:06]
+La idea sería poder decir, si este atributo es null, es porque la instancia de la clase a la que pertenece fue borrada de la lista original
+
+Daniel (Matcom), [23/11/2021 18:07]
+Ah la clase no
+
+Daniel (Matcom), [23/11/2021 18:07]
+La instancia
+
+Alejandro Escobar, [23/11/2021 18:08]
+[Respondiendo a Daniel (Matcom)]
+Eso😂
+
+Alejandro Escobar, [23/11/2021 18:08]
+[Respondiendo a Alejandro Escobar]
+Ya lo cambié
+
+Daniel (Matcom), [23/11/2021 18:09]
+Y ahora mismo que haces ?
+
+Daniel (Matcom), [23/11/2021 18:09]
+Recorrer la lista ?
+
+Alejandro Escobar, [23/11/2021 18:13]
+Básicamente ese es el problema
+
+Alejandro Escobar, [23/11/2021 18:37]
+Te suena en F# algo llamado recursión de cola?
+
+Daniel (Matcom), [23/11/2021 18:38]
+Si
+
+Alejandro Escobar, [23/11/2021 18:38]
+Qué es?
+
+Daniel (Matcom), [23/11/2021 18:39]
+Cuando la funcion termina en el llamado recursivo
+
+Alejandro Escobar, [23/11/2021 18:40]
+[Respondiendo a Daniel (Matcom)]
+Dame un ejemplo que use y uno que no use?  Con algo sencillo como factorial por ejemplo
+
+Daniel (Matcom), [23/11/2021 18:40]
+Digamos que se puede hacer en un for, sin dejar cosas guardadas en la pila
+
+Alejandro Escobar, [23/11/2021 18:42]
+[Respondiendo a Daniel (Matcom)]
+Supongamos qur no puedo usar for en F#, que tengo que hacerlo puro con declarativa
+
+Alejandro Escobar, [23/11/2021 18:45]
+[Respondiendo a Daniel (Matcom)]
+Esto es con o sin?
+
+Daniel (Matcom), [23/11/2021 18:45]
+Creo que sin
+
+Daniel (Matcom), [23/11/2021 18:45]
+Porque fijate
+
+Daniel (Matcom), [23/11/2021 18:45]
+Que tiene que mantener
+
+Alejandro Escobar, [23/11/2021 18:47]
+[Respondiendo a Daniel (Matcom)]
+Sí
+
+Alejandro Escobar, [23/11/2021 18:48]
+Hasta que se calcule completo de atrás para adelante
+
+Daniel (Matcom), [23/11/2021 18:49]
+Factorial con recursion de cola
+
+Daniel (Matcom), [23/11/2021 18:49]
+Aqui ta
+
+Daniel (Matcom), [23/11/2021 18:49]
+No se si es la manera correcta 😆 pero pa que te lleves una idea
+
+Daniel (Matcom), [23/11/2021 18:50]
+En n1 lo que va es la multiplicacion hasta ahora
+
+Daniel (Matcom), [23/11/2021 18:50]
+Mientras bajas
+
+Alejandro Escobar, [23/11/2021 18:50]
+[Respondiendo a Daniel (Matcom)]
+O sea, la idea es nunca usar la pila
+
+Alejandro Escobar, [23/11/2021 18:51]
+Sino terminar en la última iteración
+
+Daniel (Matcom), [23/11/2021 18:51]
+La pila
+
+Daniel (Matcom), [23/11/2021 18:51]
+[Respondiendo a Alejandro Escobar]
+Exacto
+
+Alejandro Escobar, [23/11/2021 18:51]
+[Respondiendo a Daniel (Matcom)]
+Eso😂
+
+Alejandro Escobar, [23/11/2021 18:51]
+O sea, es recursividad al estilo prolog entonces
+
+Alejandro Escobar, [23/11/2021 18:51]
+Donde no podíamos hacer llamados recursivos directamente y que te devolvieran algo
+
+Alejandro Escobar, [23/11/2021 18:52]
+Si no que tenías que guardar el resultado en un parámetro de entrada
+
+Daniel (Matcom), [23/11/2021 18:52]
+Aja
+
+Daniel (Matcom), [23/11/2021 18:52]
+Algo asi
+
+Daniel (Matcom), [23/11/2021 18:52]
+Tienes que buscar la manera de pasar las cosas por parametros
+
+Alejandro Escobar, [23/11/2021 18:52]
+[Respondiendo a Daniel (Matcom)]
+Ño, pero de pin😂
+
+Alejandro Escobar, [23/11/2021 18:52]
+Imagínate que ahora me fijé que me pedían NQueens con si un recursión de cola
+
+Alejandro Escobar, [23/11/2021 18:53]
+Y yo simplemente tenía hecho N Queens
+
+Alejandro Escobar, [23/11/2021 18:53]
+Ahora ni siquiera sé a cuál de las dos soluciones pertenece jajaja
+
+Daniel (Matcom), [23/11/2021 18:53]
+No sabes ?
+
+Daniel (Matcom), [23/11/2021 18:53]
+Si es sin cola o con cola ?
+
+Alejandro Escobar, [23/11/2021 18:54]
+[Respondiendo a Daniel (Matcom)]
+Déjame releerlo a ver
+
+Alejandro Escobar, [23/11/2021 18:54]
+Una duda
+
+Alejandro Escobar, [23/11/2021 18:54]
+Eso es solo de F#, o también de C#?
+
+Daniel (Matcom), [23/11/2021 18:54]
+F#
+
+Alejandro Escobar, [23/11/2021 18:54]
+Es que me decía que implementara en f# y en otro lado me dice que implemente en C#
+
+Daniel (Matcom), [23/11/2021 18:54]
+No se si C# tambien lo hace
+
+Alejandro Escobar, [23/11/2021 18:54]
+[Respondiendo a Daniel (Matcom)]
+Ah ya
+
+Daniel (Matcom), [23/11/2021 18:55]
+Pero F# si que lo hace
+
+Alejandro Escobar, [23/11/2021 18:55]
+Bueno, creo que mi solución es sin recursión de cola
+
+Daniel (Matcom), [23/11/2021 18:55]
+Normal
+
+Alejandro Escobar, [23/11/2021 18:55]
+Porque cuando encuentro una solución buena, ya devuelvo true
+
+Daniel (Matcom), [23/11/2021 18:56]
+O sea que no retornas siempre
+
+Alejandro Escobar, [23/11/2021 18:56]
+Ah no no
+
+Alejandro Escobar, [23/11/2021 18:56]
+Es con recursión
+
+Daniel (Matcom), [23/11/2021 18:56]
+En el llamado recursivo
+
+Daniel (Matcom), [23/11/2021 18:56]
+No porque si da false
+
+Alejandro Escobar, [23/11/2021 18:56]
+De cola
+
+Daniel (Matcom), [23/11/2021 18:56]
+como que sigues
+
+Daniel (Matcom), [23/11/2021 18:56]
+Y eso no puede hacerse no ?
+
+Alejandro Escobar, [23/11/2021 18:56]
+Sí sí es con recursión
+
+Daniel (Matcom), [23/11/2021 18:56]
+A ver
+
+Alejandro Escobar, [23/11/2021 18:56]
+Porque él se queda esperando a que le des una respuesta de otra recursión
+
+Alejandro Escobar, [23/11/2021 18:56]
+No avanza y ya
+
+Daniel (Matcom), [23/11/2021 18:57]
+No entiendo
+
+Alejandro Escobar, [23/11/2021 18:58]
+O sea
+
+Alejandro Escobar, [23/11/2021 18:58]
+[Respondiendo a Daniel (Matcom)]
+Mira la foto
+
+Alejandro Escobar, [23/11/2021 18:58]
+Mi roograma hace un llamado recursivo antes del || y después
+
+Alejandro Escobar, [23/11/2021 18:59]
+Por tanto, se queda espersndo respuesta de otra recursión antes de continuar trabajando
+
+Daniel (Matcom), [23/11/2021 18:59]
+Si pero
+
+Daniel (Matcom), [23/11/2021 18:59]
+Llena la pila
+
+Daniel (Matcom), [23/11/2021 18:59]
+Porque si no no sabe por donde se quedo
+
+Daniel (Matcom), [23/11/2021 18:59]
+Ni que parametros tenia
+
+Alejandro Escobar, [23/11/2021 19:00]
+Exacto
+
+Alejandro Escobar, [23/11/2021 19:00]
+Cómo lo hago sin recursión de cola😐
+
+Daniel (Matcom), [23/11/2021 19:00]
+Eso que hiciste
+
+Daniel (Matcom), [23/11/2021 19:00]
+No tiene recursion de cola
+
+Alejandro Escobar, [23/11/2021 19:00]
+[Respondiendo a Daniel (Matcom)]
+Ah no?
+
+Daniel (Matcom), [23/11/2021 19:00]
+Es lo que te trato de explicar
+
+Daniel (Matcom), [23/11/2021 19:00]
+[Respondiendo a Daniel (Matcom)]
+This
+
+Daniel (Matcom), [23/11/2021 19:00]
+Obligado guarda en la pila
+
+Alejandro Escobar, [23/11/2021 19:01]
+[Respondiendo a Daniel (Matcom)]
+Sí
+
+Daniel (Matcom), [23/11/2021 19:01]
+Este llamado, tu tienes que esperar la respuesta
+
+Alejandro Escobar, [23/11/2021 19:01]
+A ver quizád lo entendí al rev~s
+
+Alejandro Escobar, [23/11/2021 19:01]
+Tienes recursión de cola cuando guardas en la pila?  O no tienes
+
+Daniel (Matcom), [23/11/2021 19:01]
+Fijate que la recursion de cola es cuando te puedes olvidar del llamado anterior completamente
+
+Daniel (Matcom), [23/11/2021 19:02]
+Ya ese llamado no hace falta
+
+Daniel (Matcom), [23/11/2021 19:02]
+Se sustituye por el nuevo y ya
+
+Alejandro Escobar, [23/11/2021 19:02]
+[Respondiendo a Daniel (Matcom)]
+Ah ya, pensé que era al revés
+
+Alejandro Escobar, [23/11/2021 19:02]
+Entonces el mío no tiene recursión de cola
+
+Alejandro Escobar, [23/11/2021 19:02]
+Porque un llamado anterior depende de mi valor
+
+Daniel (Matcom), [23/11/2021 19:02]
+Claro
+
+Daniel (Matcom), [23/11/2021 19:03]
+factorial
+
+Daniel (Matcom), [23/11/2021 19:03]
+El primer factorial
+
+Alejandro Escobar, [23/11/2021 19:03]
+[Respondiendo a Daniel (Matcom)]
+Sí
+
+Alejandro Escobar, [23/11/2021 19:04]
+Y N Queens se puede hacer con recursión de cola?
+
+Alejandro Escobar, [23/11/2021 19:04]
+O ses
+
+Alejandro Escobar, [23/11/2021 19:04]
+Sin buscar cuál solución está buena?
+
+Daniel (Matcom), [23/11/2021 19:04]
+con
+
+Daniel (Matcom), [23/11/2021 19:04]
+Si
+
+Alejandro Escobar, [23/11/2021 19:04]
+[Respondiendo a Daniel (Matcom)]
+De nuevo al revés😂
+
+Daniel (Matcom), [23/11/2021 19:04]
+Te lo pusieron no ?
+
+Daniel (Matcom), [23/11/2021 19:04]
+A hacerlo
+
+Alejandro Escobar, [23/11/2021 19:04]
+[Respondiendo a Daniel (Matcom)]
+Jajaja😂😂
+
+Alejandro Escobar, [23/11/2021 19:04]
+Sí claro
+
+Alejandro Escobar, [23/11/2021 19:04]
+Tengo que pensarlo ahí
+
+Alejandro Escobar, [23/11/2021 19:05]
+Thanks😁😁
+
+Alejandro Escobar, [24/11/2021 13:47]
+Papa, que bola
+
+Alejandro Escobar, [24/11/2021 13:47]
+Tengo ahí un problema con python muy serio
+
+Daniel (Matcom), [24/11/2021 13:47]
+Di
+
+Alejandro Escobar, [24/11/2021 13:47]
+Yo estoy trabajando con una clase de telegram
+
+Alejandro Escobar, [24/11/2021 13:48]
+Esta clase tiene un atributo from
+
+Alejandro Escobar, [24/11/2021 13:48]
+Pero python a mí no me deja hacer:
+
+Instance.from, porque from es una palabra reservada
+
+Alejandro Escobar, [24/11/2021 13:48]
+Cómo puedo hacer para acceder al atributo?
+
+Daniel (Matcom), [24/11/2021 13:49]
+Cambiarle el nombre ?
+
+Alejandro Escobar, [24/11/2021 13:49]
+[Respondiendo a Daniel (Matcom)]
+Es posible?
+
+Daniel (Matcom), [24/11/2021 13:49]
+Asere lo que no es posible es que se llame from porque from es un keyword
+
+Alejandro Escobar, [24/11/2021 13:49]
+[Respondiendo a Daniel (Matcom)]
+Es que imprimí la clase a ver qué tenía dentro
+
+Daniel (Matcom), [24/11/2021 13:50]
+ok
+
+Daniel (Matcom), [24/11/2021 13:50]
+Y que te salio ?
+
+Alejandro Escobar, [24/11/2021 13:50]
+Voy
+
+Alejandro Escobar, [24/11/2021 13:50]
+Ahora te mando foto
+
+Daniel (Matcom), [24/11/2021 13:50]
+Que es imprimir la clase ?
+
+Alejandro Escobar, [24/11/2021 13:51]
+[Respondiendo a Daniel (Matcom)]
+Print(instance)
+
+Daniel (Matcom), [24/11/2021 13:51]
+Ah
+
+Alejandro Escobar, [24/11/2021 13:51]
+Yo hicr esto
+
+Daniel (Matcom), [24/11/2021 13:51]
+Pero eso te puede ensennar cualquier cosa no ?
+
+Alejandro Escobar, [24/11/2021 13:52]
+[Respondiendo a Daniel (Matcom)]
+Sí
+
+Alejandro Escobar, [24/11/2021 13:52]
+Y lo que sale en consola es esto
+
+Daniel (Matcom), [24/11/2021 13:52]
+ok
+
+Alejandro Escobar, [24/11/2021 13:53]
+Y no me deja indexar como diccionario
+
+Alejandro Escobar, [24/11/2021 13:53]
+Solo darle .atribute
+
+Daniel (Matcom), [24/11/2021 13:53]
+Es que esa no es la clase
+
+Daniel (Matcom), [24/11/2021 13:53]
+A ver, imprime el .__dict__()
+
+Alejandro Escobar, [24/11/2021 13:53]
+[Respondiendo a Daniel (Matcom)]
+Sí a ver, es un atributo de la clase
+
+Alejandro Escobar, [24/11/2021 13:54]
+[Respondiendo a Daniel (Matcom)]
+Literal a la clase le digo eso?
+
+Daniel (Matcom), [24/11/2021 13:54]
+[Respondiendo a Alejandro Escobar]
+Eso quien te lo dijo ?
+
+Daniel (Matcom), [24/11/2021 13:54]
+[Respondiendo a Alejandro Escobar]
+A la instancia si
+
+Daniel (Matcom), [24/11/2021 13:54]
+Si ahi ves el from
+
+Daniel (Matcom), [24/11/2021 13:54]
+Y tu quieres acceder a ese from
+
+Daniel (Matcom), [24/11/2021 13:55]
+Ok
+
+Daniel (Matcom), [24/11/2021 13:56]
+Entonces normal
+
+Daniel (Matcom), [24/11/2021 13:56]
+Sin el llamado
+
+Alejandro Escobar, [24/11/2021 13:56]
+O sea update al berro
+
+Daniel (Matcom), [24/11/2021 13:56]
+No
+
+Daniel (Matcom), [24/11/2021 13:56]
+Sin la invocacion
+
+Alejandro Escobar, [24/11/2021 13:57]
+No te entiendo
+
+Alejandro Escobar, [24/11/2021 13:57]
+Qué escribo en el print?
+
+Daniel (Matcom), [24/11/2021 13:57]
+[Respondiendo a Daniel (Matcom)]
+Esto
+
+Alejandro Escobar, [24/11/2021 13:58]
+Ese es el tipo de uodste
+
+Alejandro Escobar, [24/11/2021 13:58]
+Update*
+
+Alejandro Escobar, [24/11/2021 13:58]
+Déjame buscsarle el dict shora
+
+Alejandro Escobar, [24/11/2021 13:59]
+Ya
+
+Alejandro Escobar, [24/11/2021 13:59]
+Me devolvió una súper cosa ahí grandísima
+
+Daniel (Matcom), [24/11/2021 14:00]
+Ujum
+
+Daniel (Matcom), [24/11/2021 14:00]
+Esos son los atributos de la instancia
+
+Alejandro Escobar, [24/11/2021 14:00]
+[Respondiendo a Daniel (Matcom)]
+Anjá
+
+Daniel (Matcom), [24/11/2021 14:00]
+Ya ahi buscas el from ese que tu quieres
+
+Alejandro Escobar, [24/11/2021 14:02]
+Creo que ese from como tla no estaba ahí
+
+Alejandro Escobar, [24/11/2021 14:02]
+Sino en la clase de adentro adentro
+
+Alejandro Escobar, [24/11/2021 14:02]
+Que era Telegram.message.Message creo
+
+Daniel (Matcom), [24/11/2021 14:03]
+[Respondiendo a Alejandro Escobar]
+Bueno ponle __dict__ a esto
+
+Alejandro Escobar, [24/11/2021 14:38]
+Por gusto no me dejó
+
+Alejandro Escobar, [24/11/2021 14:38]
+Después de perro rato leyendo en el message.Message.__dict__
+
+Alejandro Escobar, [24/11/2021 14:38]
+Lo encontré
+
+Alejandro Escobar, [24/11/2021 14:38]
+Forward_from
+
+Alejandro Escobar, [24/11/2021 14:38]
+Pero cuando lo pido me devuelve None
+
+Daniel (Matcom), [24/11/2021 15:25]
+forward_from es cuando es forwarded el mensaje
+
+Daniel (Matcom), [24/11/2021 15:25]
+Si no, es None
+
+Alejandro Escobar, [20/06/2022 14:13]
+Papa
+
+Alejandro Escobar, [20/06/2022 14:13]
+Que bola
+
+Alejandro Escobar, [20/06/2022 14:14]
+Tengo un problemilla, tengo una lista de vectores de diferentes dimensionalidades, y tengo que usarlos para una biblioteca de ML que pide vectores de igual dimensión para hallar patrones y eso. Conoces alguna forma de transformar los vectores para que mantengan las características originales y tengan la misma dimensionalidad?
+
+Daniel (Matcom), [20/06/2022 14:25]
+Ni idea
+
+Daniel (Matcom), [20/06/2022 14:25]
+Pero imagino que sea posible

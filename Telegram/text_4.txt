@@ -1,0 +1,980 @@
+Alejandro Escobar, [21/10/2020 17:00]
+Morgado
+
+Alejandro Escobar, [21/10/2020 17:00]
+Por qué te dio eso la función maginal de x?
+
+Morgado (Matcom), [21/10/2020 17:01]
+Mira la foto jajjaa
+
+Alejandro Escobar, [21/10/2020 17:44]
+Ah Morgado, no te guíes por la foto que subí, la solución está bien pero en un paso hice algo que si lo ve Idania me ahorca, no es que esté mal, es que en análisis no podía hacerse eso
+
+Morgado (Matcom), [21/10/2020 17:44]
+Jajajja
+
+Morgado (Matcom), [21/10/2020 17:44]
+Ok ok yo lo voy a tirar por mi a ver como me sale
+
+Alejandro Escobar, [21/10/2020 17:45]
+[Respondiendo a Morgado (Matcom)]
+Dale, cualquier cosa me dices
+
+Alejandro Escobar, [21/10/2020 19:09]
+Morgado, te pregunto puesto que me han dejado en visto. Cómo se demuestra en el 1b que son independientes?
+
+Alejandro Escobar, [21/10/2020 19:09]
+Porque busqué en la conferencia y no veo algo que diga eso
+
+Morgado (Matcom), [21/10/2020 19:11]
+[Respondiendo a Alejandro Escobar]
+De q cp?
+
+Morgado (Matcom), [21/10/2020 19:11]
+La 10?
+
+Morgado (Matcom), [21/10/2020 19:12]
+Yo no he hecho eso 
+
+Alejandro Escobar, [21/10/2020 19:12]
+[Respondiendo a Morgado (Matcom)]
+El 1b de la 10
+
+Alejandro Escobar, [02/11/2020 21:15]
+Men, el Latex me da este palo, tienes alguna idea de qué pueda ser?
+
+Alejandro Escobar, [02/11/2020 21:16]
+Dice que es que en esa línea escribí un acento o algo así sin usar el modo matemático, pero he revisalo y no sé a qué se refiere
+
+Morgado (Matcom), [02/11/2020 21:53]
+Locura
+
+Morgado (Matcom), [02/11/2020 21:53]
+No tengo idea 
+
+Alejandro Escobar, [02/11/2020 21:53]
+[Respondiendo a Morgado (Matcom)]
+Ok, ya esto es grave
+
+Alejandro Escobar, [02/11/2020 21:54]
+Dice abajo el error, pero ni idea
+
+Morgado (Matcom), [02/11/2020 21:54]
+Yo en latex uso las tildes normal
+
+Morgado (Matcom), [02/11/2020 21:54]
+No con el \
+
+Alejandro Escobar, [02/11/2020 21:54]
+Y hasta el momento me había tomando las tildes bien
+
+Alejandro Escobar, [02/11/2020 21:54]
+[Respondiendo a Morgado (Matcom)]
+Es con \'
+
+Alejandro Escobar, [02/11/2020 21:54]
+Pero hasta eso momento me los cogía bien
+
+Alejandro Escobar, [02/11/2020 21:54]
+Esa locura es nueva
+
+Morgado (Matcom), [02/11/2020 21:55]
+[Respondiendo a Alejandro Escobar]
+Yo se....pero hay un package q tiene latex ahi con el q te evitas usar \'
+
+Morgado (Matcom), [02/11/2020 21:55]
+Y puedes usar la tilde en la letra directo
+
+Alejandro Escobar, [02/11/2020 21:55]
+Oh
+
+Morgado (Matcom), [02/11/2020 21:55]
+Inputec
+
+Alejandro Escobar, [02/11/2020 21:55]
+Pero igual, quiero saber por qué me da el error ahora
+
+Morgado (Matcom), [02/11/2020 21:56]
+Creo q es ese
+
+Morgado (Matcom), [02/11/2020 21:56]
+[Respondiendo a Alejandro Escobar]
+No idea man
+
+Morgado (Matcom), [02/11/2020 21:56]
+[Respondiendo a Morgado (Matcom)]
+Y le pones latin
+
+Morgado (Matcom), [02/11/2020 21:56]
+Algo asi
+
+Alejandro Escobar, [02/11/2020 21:57]
+[Respondiendo a Morgado (Matcom)]
+Oh
+
+Alejandro Escobar, [22/11/2020 15:56]
+Literal mira esto
+
+Alejandro Escobar, [22/11/2020 15:56]
+Nada que ver una cosa con otra
+
+Alejandro Escobar, [22/11/2020 15:56]
+Con cuál me quedo
+
+Morgado (Matcom), [22/11/2020 15:57]
+Pos no idea jajajaj
+
+Morgado (Matcom), [22/11/2020 15:57]
+Fijate en los .sql
+
+Alejandro Escobar, [11/01/2021 13:07]
+Morgado, necesito un favor tuyo
+
+Alejandro Escobar, [11/01/2021 13:07]
+Has hecho alguna vez una aplicación para Android que tenga una base de datos?  O al menos sabes qué plataformas y lenguajes son necesarios para ello?
+
+Morgado (Matcom), [11/01/2021 13:08]
+[Respondiendo a Alejandro Escobar]
+No man
+
+Morgado (Matcom), [11/01/2021 13:08]
+Yo todo lo que he hecho es local
+
+Alejandro Escobar, [11/01/2021 13:09]
+[Respondiendo a Morgado (Matcom)]
+Local?
+
+Morgado (Matcom), [11/01/2021 13:09]
+Si o sea...nada de pedir request a una base de dato externa
+
+Morgado (Matcom), [11/01/2021 13:09]
+Y lo que hago siempre pa guardar las cosas es usar json y cosas asi
+
+Morgado (Matcom), [11/01/2021 13:09]
+O sea...nada de sql ni nada d eso
+
+Alejandro Escobar, [11/01/2021 13:10]
+[Respondiendo a Morgado (Matcom)]
+Pero has hecho aplicaciones para android?
+
+Morgado (Matcom), [11/01/2021 13:10]
+Si si
+
+Morgado (Matcom), [11/01/2021 13:10]
+En unity
+
+Morgado (Matcom), [11/01/2021 13:10]
+No es lo mejor pa eso
+
+Morgado (Matcom), [11/01/2021 13:10]
+Pero es lo que he usado
+
+Alejandro Escobar, [11/01/2021 13:11]
+A mí me hablaron de un Android Studio, pero el que encontré requiere internet, has trabajado con eso?
+
+Morgado (Matcom), [11/01/2021 13:11]
+No man
+
+Morgado (Matcom), [11/01/2021 13:11]
+Pero te recomiendo fuertemente flutter
+
+Morgado (Matcom), [11/01/2021 13:11]
+Es la tiza
+
+Morgado (Matcom), [11/01/2021 13:11]
+No lo he usado pero se q es muy bueno
+
+Alejandro Escobar, [11/01/2021 13:12]
+[Respondiendo a Morgado (Matcom)]
+Déjame ver
+
+Alejandro Escobar, [11/01/2021 13:12]
+Thanks
+
+Alejandro Escobar, [11/03/2021 23:09]
+Morgado, una duda, tú hiciste los ej 1-5 de declarativa?
+
+Morgado (Matcom), [11/03/2021 23:16]
+No man
+
+Morgado (Matcom), [11/03/2021 23:16]
+Estoy terminando con sbd
+
+Alejandro Escobar, [11/03/2021 23:17]
+[Respondiendo a Morgado (Matcom)]
+Dale ok, gracias de todas formas
+
+Alejandro Escobar, [04/10/2021 22:23]
+Morgado, casetes de otras consolas no tienes? Gameboy, ds y eso
+
+Alejandro Escobar, [04/10/2021 22:25]
+[Respondiendo a Morgado (Matcom)]
+Tienes una casete de Family así que me espero cualquier cosa jajajaj
+
+Alejandro Escobar, [09/02/2022 22:35]
+Morgado
+
+Alejandro Escobar, [09/02/2022 22:35]
+Que bola
+
+Alejandro Escobar, [09/02/2022 22:35]
+Cómo estás
+
+Morgado (Matcom), [09/02/2022 22:35]
+Q welta man
+
+Alejandro Escobar, [09/02/2022 22:36]
+Men a ver que ando medio perdido, cómo es eso del informe ahora que hay que entregar de IA+C+S
+
+Morgado (Matcom), [09/02/2022 22:36]
+Ahh si si....es como un reporte pero general del proyecto
+
+Morgado (Matcom), [09/02/2022 22:36]
+Cómo está estructurado etc
+
+Morgado (Matcom), [09/02/2022 22:36]
+Mira
+
+Morgado (Matcom), [09/02/2022 22:36]
+Te mando el msg q me mandó piad
+
+Alejandro Escobar, [09/02/2022 22:37]
+[Respondiendo a Morgado (Matcom)]
+Dale ok
+
+Morgado (Matcom), [09/02/2022 22:37]
+[Reenviado de Alejandro Piad Morffis]
+Describir el dominio del problema primero, que se quiere lograr, luego hablar de la solución, screenshots, que hace, cómo se usa, cómo se programa en el lenguaje, y luego hablar de los detalles de implementación, que algoritmos están detrás de cada cosa, cómo se implementaron las partes
+
+Alejandro Escobar, [09/02/2022 22:37]
+[Respondiendo a Morgado (Matcom)]
+Pero eso no es literalmente los informes que hicimos?
+
+Morgado (Matcom), [09/02/2022 22:37]
+Anja
+
+Morgado (Matcom), [09/02/2022 22:38]
+Pero ahora del proyecto entero
+
+Alejandro Escobar, [09/02/2022 22:38]
+A ver a ver
+
+Alejandro Escobar, [09/02/2022 22:38]
+Nosotros hicimos un reporte del proyecto entero
+
+Alejandro Escobar, [09/02/2022 22:38]
+Como se fue desarrollando
+
+Morgado (Matcom), [09/02/2022 22:38]
+Entonces ya
+
+Alejandro Escobar, [09/02/2022 22:38]
+No me queda claro de este nuevo qué tiene de diferente
+
+Morgado (Matcom), [09/02/2022 22:39]
+Man es q los reporte q nosotros hacíamos era diciendo las cosas q se habían hecho
+
+Morgado (Matcom), [09/02/2022 22:39]
+Y ya al final hicimos un resumen general
+
+Morgado (Matcom), [09/02/2022 22:39]
+Si quieres puedes ver el de nosotros
+
+Morgado (Matcom), [09/02/2022 22:39]
+Es el readme del repo
+
+Alejandro Escobar, [09/02/2022 22:40]
+[Respondiendo a Morgado (Matcom)]
+Ah ok, thanks, a ver si al menos entiendo la idea
+
+Alejandro Escobar, [09/02/2022 22:40]
+O ses
+
+Alejandro Escobar, [09/02/2022 22:40]
+Lo que quieren es que hablemos general
+
+Morgado (Matcom), [09/02/2022 22:40]
+Anja
+
+Alejandro Escobar, [09/02/2022 22:40]
+Pero yendo por cada cosa
+
+Alejandro Escobar, [09/02/2022 22:40]
+O algo así
+
+Alejandro Escobar, [09/02/2022 22:42]
+[Respondiendo a Morgado (Matcom)]
+Ah dale disculpa
+
+Alejandro Escobar, [09/02/2022 22:43]
+Thanks
+
+Alejandro Escobar, [09/02/2022 22:43]
+Leeré el readme
+
+Alejandro Escobar, [21/04/2022 22:54]
+Cómo se actualiza el code???
+
+Alejandro Escobar, [21/04/2022 22:54]
+Con algún comando?
+
+Morgado (Matcom), [21/04/2022 22:56]
+El tiene un botón por ahí para upgradear
+
+Morgado (Matcom), [21/04/2022 22:56]
+Pero ten cuidao...puede q sean como 60mb
+
+Morgado (Matcom), [21/04/2022 22:57]
+[Respondiendo a Morgado (Matcom)]
+No recuerdo dond es pero no debe ser difícil encontrarlo
+
+Alejandro Escobar, [21/04/2022 23:03]
+[Respondiendo a Morgado (Matcom)]
+Ok, thanks
+
+Alejandro Escobar, [24/04/2022 22:50]
+Papa que tal
+
+Alejandro Escobar, [24/04/2022 22:51]
+Updateé aquello que me dijiste del notebook
+
+Morgado (Matcom), [24/04/2022 22:51]
+anja
+
+Alejandro Escobar, [24/04/2022 22:51]
+Y me pinchó en talla lo del latez
+
+Alejandro Escobar, [24/04/2022 22:51]
+Pero
+
+Alejandro Escobar, [24/04/2022 22:51]
+Ahora no puedo correr los cósigos
+
+Morgado (Matcom), [24/04/2022 22:51]
+es el vscode...no la extensión
+
+Morgado (Matcom), [24/04/2022 22:51]
+ahh ok ok
+
+Morgado (Matcom), [24/04/2022 22:51]
+como q no puedes correr los códigos?
+
+Morgado (Matcom), [24/04/2022 22:51]
+[Respondiendo a Morgado (Matcom)]
+bueno...ahora no recuerdo cual de los dos era jajaja
+
+Alejandro Escobar, [24/04/2022 22:51]
+[Respondiendo a Morgado (Matcom)]
+No me sale nada con lo que pueda... Darle play, como antes
+
+Morgado (Matcom), [24/04/2022 22:52]
+manda foto
+
+Morgado (Matcom), [24/04/2022 22:52]
+del screen
+
+Morgado (Matcom), [24/04/2022 22:52]
+y lo otro con Ctrl+Enter y/o Shift+Enter puedes correr un cell
+
+Alejandro Escobar, [24/04/2022 22:55]
+[Respondiendo a Morgado (Matcom)]
+Aunque no lo creas todavía se están mandando las fotos
+
+Morgado (Matcom), [24/04/2022 22:55]
+jjj okok
+
+Alejandro Escobar, [24/04/2022 22:57]
+Se mandó una de tres fotos
+
+Alejandro Escobar, [24/04/2022 22:57]
+Candela con la conexión
+
+Morgado (Matcom), [24/04/2022 22:58]
+[Respondiendo a Alejandro Escobar]
+tampoco está en el otro lado de la barra? en el lado derecho?
+
+Morgado (Matcom), [24/04/2022 22:59]
+[Respondiendo a Morgado (Matcom)]
+sino sale eso igual lo puedes cambiar usando Ctrl+Shift+P imagino...o en los settings ver las cosas q salen o no en esa barra
+
+Alejandro Escobar, [24/04/2022 22:59]
+[Respondiendo a Morgado (Matcom)]
+Nop
+
+Morgado (Matcom), [24/04/2022 22:59]
+[Respondiendo a Alejandro Escobar]
+lo otro...ahi sale q Jupyter extension is loading
+
+Morgado (Matcom), [24/04/2022 22:59]
+a lo mejor por eso todavía no puedes correr ninguna celda
+
+Alejandro Escobar, [24/04/2022 22:59]
+[Respondiendo a Morgado (Matcom)]
+Se queda cargando infinitamente
+
+Morgado (Matcom), [24/04/2022 23:00]
+[Respondiendo a Alejandro Escobar]
+bueno....y aún asi se salen las celdas?
+
+Alejandro Escobar, [24/04/2022 23:00]
+[Respondiendo a Morgado (Matcom)]
+Cuando toco ctrl+enter sale lo que te mandé en una de las fotos
+
+Alejandro Escobar, [24/04/2022 23:00]
+[Respondiendo a Morgado (Matcom)]
+Sí
+
+Morgado (Matcom), [24/04/2022 23:00]
+lo otro....tu actualizaste la extensión tmb?
+
+Alejandro Escobar, [24/04/2022 23:00]
+Me salen lo que no puedo correrlas
+
+Morgado (Matcom), [24/04/2022 23:00]
+tienes la ultima versión?
+
+Alejandro Escobar, [24/04/2022 23:00]
+[Respondiendo a Morgado (Matcom)]
+No me deja
+
+Morgado (Matcom), [24/04/2022 23:00]
+[Respondiendo a Alejandro Escobar]
+como q no te deja?
+
+Alejandro Escobar, [24/04/2022 23:00]
+Me pone:
+Error while updating 'Jupyter' Extension
+
+Morgado (Matcom), [24/04/2022 23:00]
+[Respondiendo a Alejandro Escobar]
+y no te dice el error?
+
+Morgado (Matcom), [24/04/2022 23:01]
+es de conexión o algo?
+
+Morgado (Matcom), [24/04/2022 23:01]
+a lo mejor es problem de conexión y el tipo luego de tres intentos tumba eso
+
+Alejandro Escobar, [24/04/2022 23:01]
+[Respondiendo a Morgado (Matcom)]
+Cuando le doy try download manually
+
+Morgado (Matcom), [24/04/2022 23:01]
+[Respondiendo a Alejandro Escobar]
+a la extensión? manually?
+
+Morgado (Matcom), [24/04/2022 23:01]
+ni sabía q eso se podía hacer ya en el code 
+
+Morgado (Matcom), [24/04/2022 23:02]
+recuerda q hace como medio año q no uso el code
+
+Alejandro Escobar, [24/04/2022 23:02]
+Me manda a una página que se entra con vpn
+
+Alejandro Escobar, [24/04/2022 23:02]
+Te mandaría una foto de lo que dice la pantalla
+
+Alejandro Escobar, [24/04/2022 23:02]
+[Respondiendo a Morgado (Matcom)]
+Sí, me deja jaja
+
+Morgado (Matcom), [24/04/2022 23:02]
+ya tu sae...
+
+Morgado (Matcom), [24/04/2022 23:02]
+bueno..y has probado actualizar con un vpn puesto?
+
+Alejandro Escobar, [24/04/2022 23:03]
+[Respondiendo a Morgado (Matcom)]
+Sí
+
+Alejandro Escobar, [24/04/2022 23:03]
+Y me sigue dando el mismo error
+
+Alejandro Escobar, [24/04/2022 23:03]
+Ya intenté todo
+
+Morgado (Matcom), [24/04/2022 23:04]
+te tengo una solución
+
+Morgado (Matcom), [24/04/2022 23:04]
+no uses el code
+
+Morgado (Matcom), [24/04/2022 23:04]
+nah men no se...prueba remover la extensión y volverla a instalar no se
+
+Alejandro Escobar, [24/04/2022 23:04]
+Qué puedo usar?
+
+Morgado (Matcom), [24/04/2022 23:04]
+tu lo estas actualizando dentro del mismo code no?
+
+Morgado (Matcom), [24/04/2022 23:05]
+[Respondiendo a Alejandro Escobar]
+man pa los notebooks puedes usar un navegador
+
+Morgado (Matcom), [24/04/2022 23:05]
+pero bueno...no vas a tener las comodidades q tienes en el code
+
+Alejandro Escobar, [24/04/2022 23:05]
+[Respondiendo a Morgado (Matcom)]
+Sí claro
+
+Alejandro Escobar, [24/04/2022 23:05]
+[Respondiendo a Morgado (Matcom)]
+Lo cual es malo
+
+Morgado (Matcom), [24/04/2022 23:06]
+yo uso un navegador....(no tengo el code ni siquiera instalado jajaaj) pero realmente no es q me importe mucho
+
+Morgado (Matcom), [24/04/2022 23:06]
+ahi no se escribe mucho código...y además hay un semiautocompletamiento q pa mi es suficiente
+
+Alejandro Escobar, [24/04/2022 23:06]
+[Respondiendo a Morgado (Matcom)]
+No sé còmo hacerlo con el navegador
+
+Alejandro Escobar, [24/04/2022 23:06]
+[Respondiendo a Alejandro Escobar]
+Se mandó una foto al fin
+
+Morgado (Matcom), [24/04/2022 23:07]
+[Respondiendo a Alejandro Escobar]
+te paras en la carpeta donde está el .ipynb en una terminal y tiras:
+
+jupyter notebook tu.ipynb
+
+Morgado (Matcom), [24/04/2022 23:07]
+[Respondiendo a Alejandro Escobar]
+y aqui ni con ctrl+enter pincha?
+
+Morgado (Matcom), [24/04/2022 23:08]
+[Respondiendo a Alejandro Escobar]
+nota aparte....papa...las letras esas....esos notebooks son para debiles visuales eh jajajajaja
+
+Alejandro Escobar, [24/04/2022 23:08]
+[Respondiendo a Morgado (Matcom)]
+Y me abre con todo correcto en el navegador?
+
+Alejandro Escobar, [24/04/2022 23:08]
+Perfe
+
+Alejandro Escobar, [24/04/2022 23:08]
+Duda loca: Cómo se abría la terminal en una carpeta en específico en window?
+
+Morgado (Matcom), [24/04/2022 23:08]
+[Respondiendo a Alejandro Escobar]
+a q te refieres con todo correcto? jaajaj
+
+Alejandro Escobar, [24/04/2022 23:09]
+Cuáles eran las teclas que había que tocar quiero decir
+
+Morgado (Matcom), [24/04/2022 23:09]
+[Respondiendo a Alejandro Escobar]
+arriba donde te dice la dir donde estas parado....borras lo q te sale cndo das click...y escribes powershell o cmd depende cual quieras usar
+
+Alejandro Escobar, [24/04/2022 23:14]
+[Respondiendo a Morgado (Matcom)]
+Ok, thanks
+
+Alejandro Escobar, [24/04/2022 23:14]
+[Respondiendo a Morgado (Matcom)]
+Me refería a que abriera normal
+
+Morgado (Matcom), [24/04/2022 23:14]
+si si jjj
+
+Morgado (Matcom), [24/04/2022 23:14]
+eso solo depende de q tengas jupyter instalado
+
+Morgado (Matcom), [24/04/2022 23:14]
+si no lo tienes eso es:
+
+pip install jupyter
+
+Morgado (Matcom), [24/04/2022 23:19]
+ah pero eso es q no está detectando el kernel de python
+
+Morgado (Matcom), [24/04/2022 23:19]
+q raro
+
+Morgado (Matcom), [24/04/2022 23:19]
+tu tienes instalado jupyter no?
+
+Morgado (Matcom), [24/04/2022 23:20]
+[Respondiendo a Alejandro Escobar]
+no pero eso no tiene q ver con vpn
+
+Alejandro Escobar, [24/04/2022 23:22]
+[Respondiendo a Morgado (Matcom)]
+Sí
+
+Alejandro Escobar, [24/04/2022 23:22]
+[Respondiendo a Morgado (Matcom)]
+Bueno, para abrir esa página necesitaba vpn, y al abrirla me salía eso
+
+Morgado (Matcom), [24/04/2022 23:22]
+ah bueno
+
+Morgado (Matcom), [24/04/2022 23:22]
+q raro eso
+
+Alejandro Escobar, [24/04/2022 23:23]
+[Respondiendo a Morgado (Matcom)]
+De madre
+
+Morgado (Matcom), [24/04/2022 23:24]
+man preguntale a roberto a ver
+
+Morgado (Matcom), [24/04/2022 23:24]
+el pili
+
+Morgado (Matcom), [24/04/2022 23:24]
+el sí usa el code y abre los notebooks por ahí
+
+Alejandro Escobar, [24/04/2022 23:24]
+[Respondiendo a Morgado (Matcom)]
+Ok ok , thanks
+
+Morgado (Matcom), [04/06/2022 20:39]
+man tas por ahi?
+
+Alejandro Escobar, [04/06/2022 21:52]
+Dime que bola
+
+Morgado (Matcom), [04/06/2022 21:52]
+ya ya
+
+Morgado (Matcom), [04/06/2022 21:52]
+thx jjj
+
+Morgado (Matcom), [04/06/2022 22:25]
+estoy aqui again
+
+Alejandro Escobar, [04/06/2022 22:48]
+Dime
+
+Alejandro Escobar, [04/06/2022 22:48]
+Again
+
+Morgado (Matcom), [04/06/2022 22:48]
+jjj
+
+Morgado (Matcom), [04/06/2022 22:49]
+tienes la pc delante?
+
+Alejandro Escobar, [04/06/2022 22:49]
+[Respondiendo a Morgado (Matcom)]
+Nop
+
+Alejandro Escobar, [04/06/2022 22:49]
+Por?
+
+Morgado (Matcom), [04/06/2022 22:49]
+era para q probaras instalar una cosa ahi
+
+Morgado (Matcom), [04/06/2022 22:49]
+de python
+
+Alejandro Escobar, [04/06/2022 22:49]
+[Respondiendo a Morgado (Matcom)]
+De internet?
+
+Morgado (Matcom), [04/06/2022 22:49]
+si pero no pesa
+
+Morgado (Matcom), [04/06/2022 22:50]
+es un simple pip install y te aseguro q no pesa xq es mio 
+
+Alejandro Escobar, [04/06/2022 22:50]
+Jajaja
+
+Alejandro Escobar, [04/06/2022 22:50]
+Déjame cogerla un momento
+
+Morgado (Matcom), [04/06/2022 22:50]
+dale
+
+Morgado (Matcom), [04/06/2022 22:50]
+q sistema usas?
+
+Alejandro Escobar, [04/06/2022 22:50]
+[Respondiendo a Morgado (Matcom)]
+Window
+
+Morgado (Matcom), [04/06/2022 22:50]
+perfect
+
+Alejandro Escobar, [04/06/2022 22:50]
+De toa la laif
+
+Morgado (Matcom), [04/06/2022 22:50]
+así puedo porbar la instalación en el virus ese
+
+Alejandro Escobar, [04/06/2022 22:50]
+[Respondiendo a Morgado (Matcom)]
+Eh
+
+Alejandro Escobar, [04/06/2022 22:51]
+No me mandes virus
+
+Alejandro Escobar, [04/06/2022 22:51]
+Ni le digas virus a window
+
+Morgado (Matcom), [04/06/2022 22:51]
+[Respondiendo a Morgado (Matcom)]
+(yo diciendole virus a windows)
+
+Morgado (Matcom), [04/06/2022 22:51]
+jajajaj
+
+Alejandro Escobar, [04/06/2022 22:51]
+[Respondiendo a Morgado (Matcom)]
+Sí sí te entendí
+
+Alejandro Escobar, [04/06/2022 22:51]
+Pero aclaro igual
+
+Morgado (Matcom), [04/06/2022 22:51]
+[Respondiendo a Alejandro Escobar]
+no es un virus veo...tu lo instalas y te encripto la pc...y luego me das dinero y ya
+
+Morgado (Matcom), [04/06/2022 22:51]
+pero a tu pc no le pasa nada
+
+Morgado (Matcom), [04/06/2022 22:51]
+jajajaajajaj
+
+Alejandro Escobar, [04/06/2022 22:52]
+[Respondiendo a Morgado (Matcom)]
+Total, como si tuviera algo útil ahí
+
+Alejandro Escobar, [04/06/2022 22:52]
+Dime el pip
+
+Alejandro Escobar, [04/06/2022 22:52]
+Cuál es
+
+Morgado (Matcom), [04/06/2022 22:52]
+pip install fdce==0.1.1a1 --no-deps
+
+Morgado (Matcom), [04/06/2022 22:53]
+el ==0.1.1a1 es xq estoy haciendo mini build para probar
+
+Morgado (Matcom), [04/06/2022 22:53]
+y el no deps es para q no te instale las dep
+
+Morgado (Matcom), [04/06/2022 22:53]
+q solo es numpy pero bueno
+
+Morgado (Matcom), [04/06/2022 22:53]
+pa lo qme hace falta no tienes q instalarla creo jj
+
+Alejandro Escobar, [04/06/2022 22:54]
+[Respondiendo a Morgado (Matcom)]
+De todas formas ya lo tengo instalado
+
+Morgado (Matcom), [04/06/2022 22:54]
+perfect
+
+Alejandro Escobar, [04/06/2022 22:54]
+[Respondiendo a Alejandro Escobar]
+Está instalando build dependences
+
+Alejandro Escobar, [04/06/2022 22:54]
+O algo así
+
+Morgado (Matcom), [04/06/2022 22:55]
+[Respondiendo a Alejandro Escobar]
+si eso es poetry-core
+
+Morgado (Matcom), [04/06/2022 22:55]
+pero no debe pesar
+
+Morgado (Matcom), [04/06/2022 22:55]
+pesa mucho?
+
+Morgado (Matcom), [04/06/2022 22:55]
+no debe ser mucho xq eso es solo para hacer el compilado de una talla ahí
+
+Alejandro Escobar, [04/06/2022 22:55]
+[Respondiendo a Morgado (Matcom)]
+No me dijo
+
+Alejandro Escobar, [04/06/2022 22:55]
+Dice mi celular que he gastado 5 mb
+
+Morgado (Matcom), [04/06/2022 22:56]
+y sigue bajando cosas?
+
+Morgado (Matcom), [04/06/2022 22:56]
+si es mucho tumba ntp
+
+Morgado (Matcom), [04/06/2022 22:56]
+peeeerfect
+
+Morgado (Matcom), [04/06/2022 22:56]
+ahora
+
+Morgado (Matcom), [04/06/2022 22:56]
+abre python interactivo
+
+Morgado (Matcom), [04/06/2022 22:56]
+y prueba esto:
+
+Alejandro Escobar, [04/06/2022 22:57]
+[Respondiendo a Morgado (Matcom)]
+O sea el del cmd
+
+Morgado (Matcom), [04/06/2022 22:57]
+anja
+
+Alejandro Escobar, [04/06/2022 22:57]
+Lo había olvidado, no puedo
+
+Morgado (Matcom), [04/06/2022 22:57]
+why?
+
+Alejandro Escobar, [04/06/2022 22:57]
+Cuando lo escribo
+
+Alejandro Escobar, [04/06/2022 22:57]
+Me abre una página web ahí
+
+Alejandro Escobar, [04/06/2022 22:57]
+Por alguna razón
+
+Morgado (Matcom), [04/06/2022 22:57]
+ya tu sae
+
+Morgado (Matcom), [04/06/2022 22:57]
+y como corres scripts?
+
+Alejandro Escobar, [04/06/2022 22:58]
+[Respondiendo a Morgado (Matcom)]
+Desde el code
+
+Alejandro Escobar, [04/06/2022 22:58]
+Por fuera no me deja
+
+Alejandro Escobar, [04/06/2022 22:58]
+Mira
+
+Morgado (Matcom), [04/06/2022 22:59]
+ya tu sae
+
+Alejandro Escobar, [04/06/2022 22:59]
+De hecho ni idea de qué hacer con eso jaka
+
+Morgado (Matcom), [04/06/2022 22:59]
+y puedes hacer un script y correrlo?
+
+Alejandro Escobar, [04/06/2022 23:00]
+[Respondiendo a Morgado (Matcom)]
+Enséñame
+
+Alejandro Escobar, [04/06/2022 23:00]
+Si es con el code sí
+
+Alejandro Escobar, [04/06/2022 23:00]
+Pero fuera de él...
+
+Morgado (Matcom), [04/06/2022 23:00]
+bueno en el mismo code
+
+Morgado (Matcom), [04/06/2022 23:00]
+me da igual jajaja
+
+Alejandro Escobar, [04/06/2022 23:00]
+Voy
+
+Morgado (Matcom), [04/06/2022 23:00]
+de paso
+
+Morgado (Matcom), [04/06/2022 23:01]
+mira ver q versión de numpy usas
+
+Morgado (Matcom), [04/06/2022 23:01]
+eso es: import numpy
+
+Alejandro Escobar, [04/06/2022 23:01]
+[Respondiendo a Morgado (Matcom)]
+Còmo puedo saberlo
+
+Morgado (Matcom), [04/06/2022 23:01]
+y luego print(numpy.__version__)
+
+Alejandro Escobar, [04/06/2022 23:02]
+1.22.1
+
+Morgado (Matcom), [04/06/2022 23:02]
+ya ya
+
+Morgado (Matcom), [04/06/2022 23:02]
+creo q no te va a pinchar
+
+Morgado (Matcom), [04/06/2022 23:02]
+el javi lo esta probando en win y no le pincha
+
+Morgado (Matcom), [04/06/2022 23:03]
+le compiló bien pero lo compiló como si fuera pa linux
+
+Morgado (Matcom), [04/06/2022 23:03]
+q locura
+
+Alejandro Escobar, [04/06/2022 23:03]
+[Respondiendo a Morgado (Matcom)]
+Dafack
+
+Alejandro Escobar, [04/06/2022 23:03]
+[Respondiendo a Morgado (Matcom)]
+Qué se supone que debo hacer
+
+Morgado (Matcom), [04/06/2022 23:03]
+nada ya
+
+Morgado (Matcom), [04/06/2022 23:03]
+jajajajaja
+
+Alejandro Escobar, [04/06/2022 23:05]
+Jaja, dale ok
+
+Morgado (Matcom), [04/06/2022 23:06]
+gracias por sus aportes ciudadano
+
+Alejandro Escobar, [04/06/2022 23:06]
+[Respondiendo a Morgado (Matcom)]
+De nada comandante
+
+Alejandro Escobar, [20/06/2022 14:16]
+[Reenviado de Alejandro Escobar]
+Papa
+
+Alejandro Escobar, [20/06/2022 14:16]
+[Reenviado de Alejandro Escobar]
+Que bola
+
+Alejandro Escobar, [20/06/2022 14:16]
+[Reenviado de Alejandro Escobar]
+Tengo un problemilla, tengo una lista de vectores de diferentes dimensionalidades, y tengo que usarlos para una biblioteca de ML que pide vectores de igual dimensión para hallar patrones y eso. Conoces alguna forma de transformar los vectores para que mantengan las características originales y tengan la misma dimensionalidad?
+
+Morgado (Matcom), [20/06/2022 14:31]
+Padding?
+
+Morgado (Matcom), [20/06/2022 14:31]
+No se
+
+Alejandro Escobar, [20/06/2022 14:31]
+[Respondiendo a Morgado (Matcom)]
+Y esto es?👀
+
+Alejandro Escobar, [20/06/2022 14:32]
+[Respondiendo a Morgado (Matcom)]
+Dice Daniel el profe que no
+
+Alejandro Escobar, [20/06/2022 14:33]
+Que no puedo hacer eso
+
+Alejandro Escobar, [20/06/2022 14:33]
+Candela😥

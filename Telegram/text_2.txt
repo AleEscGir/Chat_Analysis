@@ -1,0 +1,176 @@
+Alejandro Escobar, [26/04/2022 11:26]
+Buenos días profe, soy el alumno que tiene la tesis de Optimización Bayesiana para Autogoal, que ayer hablamos acerca de si se pudiera sacar algo de ahí para el proyecto de la asignatura de Aprendizaje de Máquina
+
+Alejandro Escobar, [26/04/2022 11:27]
+Para si cree que de ahí pudiera salir un proyecto suficiente para la asignatura, o si no para poder buscar otro tipo de proyecto.
+
+Alejandro Escobar, [26/04/2022 11:28]
+Estaba pensando junto con otra alumna que siempre hacemos proyectos juntos, en caso de que no se pueda sacar algo de esta tesis, hacer un programa que, dada una foto de un perro, sepa identificar la raza, eso usted cree que pueda ser un proyecto de la asignatura?
+
+Alejandro Escobar, [26/04/2022 16:47]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+?
+
+Daniel Alejandro Valdés Pérez, [26/04/2022 16:56]
+Para hablar de tu proyecto
+
+Alejandro Escobar, [26/04/2022 17:22]
+Ah disculpe profe es que andaba en clase, nada más salga le escribo
+
+Alejandro Escobar, [26/04/2022 19:04]
+Buenas profe ya terminé y llegué a la casa
+
+Alejandro Escobar, [26/04/2022 19:04]
+Cuando quiera ya podemos conversar, en caso de que no esté conectado me timbra sin problemas
+
+Alejandro Escobar, [26/04/2022 19:04]
+Este es mi número
+
+Alejandro Escobar, [26/04/2022 19:04]
+54597310
+
+Alejandro Escobar, [27/04/2022 20:18]
+Profe, cuando pueda por favor me dice para ver lo del proyecto, ya en estos días no tengo clases y puede ser a la hora que usted desee
+
+Alejandro Escobar, [27/04/2022 20:57]
+Ya profe, ya estoy aquí
+
+Alejandro Escobar, [27/04/2022 20:57]
+Le colgé para poder coger la conexión
+
+Daniel Alejandro Valdés Pérez, [27/04/2022 20:58]
+Te llamo por aquí o al móvil
+
+Daniel Alejandro Valdés Pérez, [27/04/2022 20:58]
+.?
+
+Alejandro Escobar, [27/04/2022 20:58]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Lo ideal es al móvil
+
+Alejandro Escobar, [27/04/2022 20:58]
+Para evitar los problemas de conexión
+
+Alejandro Escobar, [27/04/2022 20:58]
+Si quiere yo lo llamo para que no gaste usted
+
+Alejandro Escobar, [27/04/2022 21:05]
+A ver, la segunda que me dijo fue:
+Dada una gramática, poder aprender de si esa gramática genera o puede generar buenos pipelines.
+
+La primera creo que era:
+
+La problemática de cómo parametrizar (por decirle de alguna forma), los modelos de Machine Learning para utilizar en el contexto de la optimización bayesiana
+
+Alejandro Escobar, [27/04/2022 21:05]
+Estas son las dos ideas?
+
+Daniel Alejandro Valdés Pérez, [27/04/2022 21:06]
+[Respondiendo a Alejandro Escobar]
+Perfecto
+
+Alejandro Escobar, [27/04/2022 21:06]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Ahora una cosa
+
+Alejandro Escobar, [27/04/2022 21:07]
+[Respondiendo a Alejandro Escobar]
+No me queda clara la relación de OB con la segunda?, O sea, la primera que escribí en el mensaje
+
+Alejandro Escobar, [27/04/2022 21:08]
+Disculpe si es una duda elemental, es que para ser sincero todavía estoy estudiando ML y AutoML y hay cosas de los pipelines que no me quedan claras de por sí
+
+Alejandro Escobar, [27/04/2022 21:12]
+[Respondiendo a Alejandro Escobar]
+O sea, la de las gramáticas
+
+Daniel Alejandro Valdés Pérez, [27/04/2022 21:14]
+Si si, espera que se está subiendo un audio, es que etecsa no ayuda
+
+Alejandro Escobar, [27/04/2022 21:14]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Ah ya😂
+
+Daniel Alejandro Valdés Pérez, [27/04/2022 21:15]
+Wait for it😂
+
+Alejandro Escobar, [27/04/2022 21:16]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Ni en las mejores películas lograron semejante suspenso😂
+
+Daniel Alejandro Valdés Pérez, [27/04/2022 21:16]
+🥁🥁🥁🥁🥁🥁🥁
+
+Alejandro Escobar, [27/04/2022 21:18]
+En el chiste de Etecsa la parte de "Sin Apuro" se la tomaron muy en serio😂
+
+Daniel Alejandro Valdés Pérez, [27/04/2022 21:18]
+Uuf, la cancelé sin qurer
+
+Daniel Alejandro Valdés Pérez, [27/04/2022 21:18]
+Voy
+
+Alejandro Escobar, [27/04/2022 21:19]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Ok
+
+Alejandro Escobar, [27/04/2022 21:24]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Llegó😀
+
+Alejandro Escobar, [27/04/2022 21:27]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+No se preocupe profe, muchas gracias por su preocupación
+
+Alejandro Escobar, [27/04/2022 21:27]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Ok, voy a continuar estudiando todos estos temas para ver si puedo tener el proyecto de la asignatura listo a tiempo, ahora mismo lo primero entonces será discutirlo con Piad y luego ponerlo en el issue
+
+Alejandro Escobar, [27/04/2022 21:28]
+El proyecto tiene su entrega al final del semestre?
+
+Alejandro Escobar, [27/04/2022 21:29]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Ok, perfecto😁, muchas gracias por todo, yo de todas formas más adelante le informaré de cual tema como tal elegí
+
+Alejandro Escobar, [29/04/2022 19:13]
+Buenas profe, ya conversé con el profesor Piad al respecto de lo del proyecto de ML, y decidimos entonces quedarnos el tema 2, el de la problemática se parametrizar los modelos de ML, en estos días ya prepararé el issue formalmente para comenzar a hacerlo. En primera instancia qué se debe entregar en general?, Códigos y un informe técnico?
+
+Alejandro Escobar, [29/04/2022 19:27]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Ok perfecto, muchas gracias😁
+
+Alejandro Escobar, [20/06/2022 14:57]
+Profe, buenas tardes, no encuentro la librería que me dijo para obtener los vectores de una misma dimensionalidad para One Class SVM a partir de una oración, pudiera decirme cuál es?
+
+Daniel Alejandro Valdés Pérez, [20/06/2022 14:58]
+Bert
+
+Alejandro Escobar, [20/06/2022 15:10]
+Gracias profe😁
+
+Alejandro Escobar, [21/06/2022 10:32]
+Profe, usted se encuentra libre en la facultad en algún horario?
+
+Daniel Alejandro Valdés Pérez, [21/06/2022 10:34]
+hoy no estoy allí.
+
+Alejandro Escobar, [21/06/2022 10:38]
+Era para preguntarle porq bert no nos sale..nos da error..ya lo instalamos, instalamos tensorflow y da un error en algo q se llama optimize_graph q debe tener tensorflow
+
+Alejandro Escobar, [21/06/2022 10:39]
+Descargamos incluso un .zip q es para correr bert server
+
+Alejandro Escobar, [21/06/2022 10:42]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Sí, hicimos cada uno de los pasos
+
+Alejandro Escobar, [21/06/2022 11:08]
+[Respondiendo a Daniel Alejandro Valdés Pérez]
+Ya ya logramos comenzar a correrlo, vamos a ver si funciona
+
+Alejandro Escobar, [21/06/2022 11:41]
+Profe ya tenemos el entorno virtual en ubuntu pero no podemos instalar tensorflow 1.15 porque la version de python q tenemos es muy actual y no soporta esa
+
+Alejandro Escobar, [21/06/2022 11:42]
+Se puede hacer el entorno virtual con una version de python mas vieja?
